@@ -15,24 +15,27 @@ $(function () {
   const playPreviousTrackButton = $("#play-previous");
   const playNextTrackButton = $("#play-next");
   const albums = [
-    "Silent hill",
-    "Silent hill",
-    "Silent hill",
-    "The Last of Us"
+    "Pokemon",
+    "Pokemon",
+    "Pokemon",
+    "Pokemon",
+    "Pokemon"
   
   ];
   const trackNames = [
-    "Silent hill",
-    "Silent hill",
-    "Silent hill",
-    "The Last of Us"
+    "LavenderTown",
+    "PokémonScarletVioletAreaZero",
+    "PokémonScarlet&VioletAmbience",
+    "PokémonScarletViolet",
+    "Victory Road - Pokémon_ Let's Go, Pikachu!"
   ]
-  const albumArtworks = ["_1", "_2", "_3","_4"];
+  const albumArtworks = ["_1", "_2", "_3","_4","_5"];
   const trackUrl = [
-    "AmbientSilentHill.mp3",
-    "SilentHill3music.mp3",
-    "SilentHillMusic.mp3",
-    "Thelastofus.mp3"
+    "LavenderTown.mp3",
+    "PokémonScarletVioletAreaZero.mp3",
+    "PokémonScarlet&VioletAmbience.mp3",
+    "PokémonScarletViolet.mp3",
+    "Victory Road - Pokémon_ Let's Go, Pikachu!  Eevee! Music Extended.mp3"
   ];
 
   let bgArtworkUrl,
