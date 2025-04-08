@@ -27,7 +27,7 @@ $(function () {
     "PokémonScarletVioletAreaZero",
     "PokémonScarlet&VioletAmbience",
     "PokémonScarletViolet",
-    "Victory Road - Pokémon_ Let's Go, Pikachu!"
+    "VictoryRoad!"
   ]
   const albumArtworks = ["_1", "_2", "_3","_4","_5"];
   const trackUrl = [
@@ -35,7 +35,7 @@ $(function () {
     "PokémonScarletVioletAreaZero.mp3",
     "PokémonScarlet&VioletAmbience.mp3",
     "PokémonScarletViolet.mp3",
-    "Victory Road - Pokémon_ Let's Go, Pikachu!  Eevee! Music Extended.mp3"
+    "VictoryRoad.mp3"
   ];
 
   let bgArtworkUrl,
