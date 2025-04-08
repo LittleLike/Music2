@@ -19,7 +19,8 @@ $(function () {
     "Pokemon",
     "Pokemon",
     "Pokemon",
-    "Pokemon"
+    "Pokemon",
+    "Stardew Valley"
   
   ];
   const trackNames = [
@@ -27,15 +28,18 @@ $(function () {
     "PokémonScarletVioletAreaZero",
     "PokémonScarlet&VioletAmbience",
     "PokémonScarletViolet",
-    "VictoryRoad"
+    "VictoryRoad",
+
   ]
-  const albumArtworks = ["_1", "_2", "_3","_4","_5"];
+  const albumArtworks = ["_1", "_2", "_3","_4","_5","_6"];
   const trackUrl = [
     "LavenderTown.mp3",
     "PokémonScarletVioletAreaZero.mp3",
     "PokémonScarlet&VioletAmbience.mp3",
     "PokémonScarletViolet.mp3",
-    "VictoryRoad.mp3"
+    "VictoryRoad.mp3",
+    ""
+
   ];
 
   let bgArtworkUrl,
