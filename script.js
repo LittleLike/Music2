@@ -29,6 +29,7 @@ $(function () {
     "PokémonScarlet&VioletAmbience",
     "PokémonScarletViolet",
     "VictoryRoad",
+    "Stardew Valley"
 
   ]
   const albumArtworks = ["_1", "_2", "_3","_4","_5","_6"];
@@ -38,7 +39,7 @@ $(function () {
     "PokémonScarlet&VioletAmbience.mp3",
     "PokémonScarletViolet.mp3",
     "VictoryRoad.mp3",
-    ""
+    "stardewvalley.mp3"
 
   ];
 
