@@ -57,7 +57,7 @@ $(function () {
     "Ambience & Music Pokemon",
     "Ambience & Music Pokemon",
     "Ambience & Music Pokemon",
-    "ssvid.net--Area-Zero-Music-from-Pokémon-Scarlet-Violet-Cello",
+    "Area-Zero-Violet-Cello",
     "The last of us P1",
     "The last of us P2"
 
