@@ -20,7 +20,22 @@ $(function () {
     "Pokemon",
     "Pokemon",
     "Pokemon",
-    "Stardew Valley"
+    "Stardew Valley",
+    "Pokemon",
+    "Pokemon",
+    "Pokemon",
+    "Pokemon",
+    "Pokemon",
+    "Pokemon",
+    "Pokemon",
+    "Pokemon",
+    "Pokemon",
+    "Pokemon",
+    "Pokemon",
+    "Pokemon",
+    "Pokemon",
+    "The Last of Us",
+    "The Last of Us"
   
   ];
   const trackNames = [
@@ -29,18 +44,47 @@ $(function () {
     "PokémonScarlet&VioletAmbience",
     "PokémonScarletViolet",
     "VictoryRoad",
-    "Stardew Valley"
+    "Stardew Valley",
+    "Ambience & Music Pokemon  P1",
+    "Ambience & Music Pokemon  P2",
+    "Ambience & Music Pokemon  P3",
+    "Ambience & Music Pokemon  P4",
+    "Ambience & Music Pokemon  P5",
+    "Ambience & Music Pokemon  1 P1",
+    "Ambience & Music Pokemon  1 P2",
+    "Ambience & Music Pokemon  1 P3",
+    "Ambience & Music Pokemon  1 P4",
+    "Ambience & Music Pokemon  1 P5",
+    "Ambience & Music Pokemon  2 P6",
+    "Ambience & Music Pokemon  2 P7",
+    "ssvid.net--Area-Zero-Music-from-Pokémon-Scarlet-Violet-Cello",
+    "The last of us P1",
+    "The last of us P2"
 
   ]
-  const albumArtworks = ["_1", "_2", "_3","_4","_5","_6"];
+  const albumArtworks = ["_1", "_2", "_3","_4","_5","_6","_7","_8","_9","_10","_11","_12","_13","_14","_15","_16","_17","_18","_19","_20","_21"];
   const trackUrl = [
     "LavenderTown.mp3",
     "PokémonScarletVioletAreaZero.mp3",
     "PokémonScarlet&VioletAmbience.mp3",
     "PokémonScarletViolet.mp3",
     "VictoryRoad.mp3",
-    "stardewvalley.mp3"
-
+    "stardewvalley.mp3",
+    "Ambience & Music Pokemon  P1.mp3",
+    "Ambience & Music Pokemon  P2.mp3",
+    "Ambience & Music Pokemon  P3.mp3",
+    "Ambience & Music Pokemon  P4.mp3",
+    "Ambience & Music Pokemon  P5.mp3",
+    "Ambience & Music Pokemon  1 P1.mp3",
+    "Ambience & Music Pokemon  1 P2.mp3",
+    "Ambience & Music Pokemon  1 P3.mp3",
+    "Ambience & Music Pokemon  1 P4.mp3",
+    "Ambience & Music Pokemon  1 P5.mp3",
+    "Ambience & Music Pokemon  2 P6.mp3",
+    "Ambience & Music Pokemon  2 P7.mp3",
+    "ssvid.net--Area-Zero-Music-from-Pokémon-Scarlet-Violet-Cello.mp3",
+    "The last of us P1.mp3",
+    "The last of us P2.mp3"
   ];
 
   let bgArtworkUrl,
