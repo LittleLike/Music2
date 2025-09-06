@@ -1,6 +1,6 @@
 $(function () {
   const playerTrack = $("#player-track");
-
+  const bgArtwork = $("#player-bg-artwork");
   const albumName = $("#album-name");
   const trackName = $("#track-name");
   const albumArt = $("#album-art");
