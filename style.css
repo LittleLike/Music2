@@ -80,7 +80,7 @@ body {
 }
 
 #album-name {
-  color: #c97d64;
+  color: #64bdc9;
   font-size: 17px;
   font-weight: bold;
 }
@@ -116,7 +116,7 @@ body {
 
 #track-time.active #current-time,
 #track-time.active #track-length {
-  color: #b64f2f;
+  color: #9db62f;
   background-color: transparent;
 }
 
