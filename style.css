@@ -39,7 +39,7 @@ body {
   left: -30px;
   background-color: #ffffff;
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
   background-position: 50%;
   filter: blur(40px);
   -webkit-filter: blur(40px);
@@ -69,7 +69,7 @@ body {
   right: 15px;
   left: 15px;
   padding: 13px 22px 10px 184px;
-  background-color: #ff2929;
+  background-color: #ffd7b6;
   border-radius: 15px 15px 0 0;
   transition: 0.3s ease top;
   z-index: 1;
