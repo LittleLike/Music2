@@ -80,7 +80,7 @@ body {
 }
 
 #album-name {
-  color: #64bdc9;
+  color: #c97c64;
   font-size: 17px;
   font-weight: bold;
 }
@@ -116,7 +116,7 @@ body {
 
 #track-time.active #current-time,
 #track-time.active #track-length {
-  color: #9db62f;
+  color: #b65a2f;
   background-color: transparent;
 }
 
@@ -164,7 +164,7 @@ body {
   bottom: 0;
   left: 0;
   width: 0;
-  background-color: #b82f8a;
+  background-color: #b8342f;
   transition: 0.2s ease width;
   z-index: 1;
 }
@@ -172,7 +172,7 @@ body {
 #player-content {
   position: relative;
   height: 100%;
-  background-color: #6e2fd3;
+  background-color: #d37e2f;
   box-shadow: 0 30px 80px #454B4E;
   border-radius: 15px;
   z-index: 2;
