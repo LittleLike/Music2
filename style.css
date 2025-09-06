@@ -69,7 +69,7 @@ body {
   right: 15px;
   left: 15px;
   padding: 13px 22px 10px 184px;
-  background-color: #ffbe88;
+  background-color: #ff2929;
   border-radius: 15px 15px 0 0;
   transition: 0.3s ease top;
   z-index: 1;
@@ -154,7 +154,7 @@ body {
 
 #seek-time,
 #s-hover {
-  background-color: #7a564a;
+  background-color: #e6cbb5;
 }
 
 #seek-bar {
