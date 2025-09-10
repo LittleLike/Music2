@@ -119,7 +119,7 @@ $(function () {
     "ssvid.net--Area-Zero-Music-from-Pokémon-Scarlet-Violet-Cello.mp3",
     "The last of us P1.mp3",
     "The last of us P2.mp3",
-    "Lake Bit of faith.mp3",
+    "Bit of faith.mp3",
     "Goodbye memor lane.mp3",
     "Greyhound to Chicago.mp3",
     "I Get a Little Starstuck.mp3",
