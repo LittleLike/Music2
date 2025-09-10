@@ -76,7 +76,7 @@ $(function () {
     "Area-Zero-Violet-Cello",
     "The last of us P1",
     "The last of us P2",
-    "Bit of faith",
+    "Lake Bit of faith",
     "Goodbye memor lane",
     "Greyhound to Chicago",
     "I Get a Little Starstuck",
