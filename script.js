@@ -35,8 +35,24 @@ $(function () {
     "Pokemon",
     "Pokemon",
     "The Last of Us",
-    "The Last of Us"
-  
+    "The Last of Us",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Silent hill",
+    "Silent hill",
+    "Silent hill",
+    "Silent hill",
+    "Silent hill",
+    "Silent hill",
+    "Silent hill"
   ];
   const trackNames = [
     "LavenderTown",
@@ -59,7 +75,24 @@ $(function () {
     "Ambience & Music Pokemon",
     "Area-Zero-Violet-Cello",
     "The last of us P1",
-    "The last of us P2"
+    "The last of us P2",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Lake",
+    "Silent hill",
+    "Silent hill",
+    "Silent hill",
+    "Silent hill",
+    "Silent hill",
+    "Silent hill",
+    "Silent hill"
 
   ]
   const albumArtworks = ["_1", "_2", "_3","_4","_5","_6","_7","_8","_9","_10","_11","_12","_13","_14","_15","_16","_17","_18","_19","_20","_21"];
@@ -84,7 +117,24 @@ $(function () {
     "Ambience & Music Pokemon  1 P7.mp3",
     "ssvid.net--Area-Zero-Music-from-Pokémon-Scarlet-Violet-Cello.mp3",
     "The last of us P1.mp3",
-    "The last of us P2.mp3"
+    "The last of us P2.mp3",
+    "Lake Bit of faith.mp3",
+    "Goodbye memor lane.mp3",
+    "Greyhound to Chicago.mp3",
+    "I Get a Little Starstuck.mp3",
+    "Last days of September.mp3",
+    "Lower Down the Bridge.mp3",
+    "Perpetual Transit.mp3",
+    "Racing to a Red Light.mp3",
+    "Town by the Lake.mp3",
+    "Witchcraft.mp3",
+    "Silent hill 1.mp3",
+    "Silent hill 2.mp3",
+    "Silent hill 3.mp3",
+    "Silent hill 4.mp3",
+    "Silent hill 5.mp3",
+    "Silent hill 6.mp3",
+    "Silent hill 7.mp3"
   ];
 
   let bgArtworkUrl,
